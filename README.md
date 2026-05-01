@@ -61,27 +61,6 @@ Simplemente abre `index.html` en tu navegador.
 | JavaScript (ES6+) | Interactividad, IntersectionObserver, localStorage |
 | Google Fonts | Tipografías Inter + JetBrains Mono |
 
-## 🎯 Personalización
 
-### Cambiar datos personales
-- Edita `index.html` → Cambia "Tu Nombre" y las estadísticas
-- Edita `pages/about.html` → Cambia la bio y timeline
-- Edita `pages/contact.html` → Cambia email y ubicación
-
-### Agregar proyectos reales
-En `pages/projects.html`, duplica un bloque `<div class="project-card">` y cambia:
-- El gradiente de fondo
-- El emoji/ícono
-- Los links de Demo y Código (apuntando a tu GitHub)
-- La descripción y tecnologías
-
-### Cambiar colores
-Edita las variables CSS en `css/global.css` dentro de `:root { }`.
-
-## 📄 Licencia
-
-Este proyecto es de uso libre. Úsalo como base para tu propio portafolio.
-
----
 
 Hecho con 💜 y mucho ☕
