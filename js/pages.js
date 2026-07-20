@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const typewriterEl = document.getElementById('typewriter');
     if (typewriterEl) {
         const roles = [
-            'Desarrollador Frontend',
-            'Desarrollador Backend',
-            'Diseñador UI/UX',
-            'Full Stack Developer',
-            'Creador de Experiencias'
+            'TÉCNICO DE SOPORTE IT',
+            'DESARROLLADOR FULL STACK',
+            'ESPECIALISTA EN INFRAESTRUCTURA',
+            'DESARROLLADOR FRONTEND',
+            'DESARROLLADOR BACKEND'
         ];
         let roleIndex = 0, charIndex = 0, isDeleting = false, typeSpeed = 80;
 
